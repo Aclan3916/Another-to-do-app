@@ -1,6 +1,6 @@
 'use client'
 
-import React, { useState } from 'react'
+import React from 'react'
 import {Todo} from '@/types/Todo'
 import { MdDeleteOutline } from "react-icons/md";
 import { FiEdit } from "react-icons/fi";

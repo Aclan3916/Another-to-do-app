@@ -111,7 +111,7 @@ export default function Home() {
     </div>
     {showQuote && (
       <div className="mt-2 text-sm italic text-gray-400"> 
-       "The best time to plant a tree was 20 years ago. The second best time is now." 🌱
+       The best time to plant a tree was 20 years ago. The second best time is now. 🌱
         </div>
     )}
       <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
